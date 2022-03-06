@@ -1,0 +1,3 @@
+So bao danh, Ho va ten, Toan, Ngu Van, Vat Ly, Hoa Hoc, Sinh Hoc, Lich Su, Dia Ly, GDCD, KHTN, KHXH, Ngoai Ngu, Ghi Chu, Tinh
+BD1200001,a van nguyen,4.0,5.0,,,,4.25,7.0,7.75,,,2.0,N1,BinhDinh.
+BD1200002,nhon hoai Le,7.0,6.25,6.0,6.25,6.5,,,,,,5.2,N1,BinhDinh.
