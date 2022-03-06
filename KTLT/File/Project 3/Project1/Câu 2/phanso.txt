@@ -1,0 +1,21 @@
+5
+3 4 
+1 2
+2 3
+5 8
+9 14
+
+
+DANH SACH SAU KHI SAP XEP
+1/2
+5/8
+9/14
+2/3
+3/4
+
+DANH SACH SAU KHI SAP XEP
+1/2
+5/8
+9/14
+2/3
+3/4
