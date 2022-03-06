@@ -1,0 +1,8 @@
+Cac tinh co dan so lon hon 1.000.000
+Khong co tinh nao co dan so lon hon 1.000.000
+Tinh co dien tich lon nhat :
+101;;0;0
+Cac tinh sau khi sap xep theo thu tu giam dan dien tich:
+101;;0;0
+0;;0;0
+0;;0;0

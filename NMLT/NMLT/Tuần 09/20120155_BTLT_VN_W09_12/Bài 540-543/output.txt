@@ -1,0 +1,3 @@
+a(4,3)
+b(2,5)
+Khoang cach 2 diem:2.82843
