@@ -1,3 +1,0 @@
-La tam giac
-((2,3);(4,5);(5,6))
-Chu vi tam giac :8.48528

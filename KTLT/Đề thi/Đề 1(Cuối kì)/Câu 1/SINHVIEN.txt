@@ -1,6 +1,0 @@
-MASO:202
-HO TEN:Pham
-Gioi tinh:Nam
-NGAY SINH:27/2/2002
-DIEM:3
-

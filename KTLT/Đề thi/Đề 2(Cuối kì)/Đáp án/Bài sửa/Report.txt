@@ -1,5 +1,0 @@
-Honda;Error Thang:33.3333%
-Vinfast;Error May Lanh:75%
-Honda;Error Nhip:66.6667%
-Toyota;Error Tui khi:75%
-Toyota;Error Hop so:25%
